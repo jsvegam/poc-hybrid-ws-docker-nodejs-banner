@@ -1,0 +1,6 @@
+[
+    {
+      "name": "ContainerWebApp",
+      "imageUri": "jsvegam/node-web-app:latest"
+    }
+]
